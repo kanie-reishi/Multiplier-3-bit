@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\Projects\Mul-3bit\simulation\qsim
+vmul3Bit
+Z1 Id7`C[;aC5aW3[fi7Aa^MB3
+Z2 V:V[ec>L4Mn3>^YTg46@ez1
+Z3 dH:\Projects\Mul-3bit\simulation\qsim
+Z4 w1764676230
+Z5 8mul3Bit.vo
+Z6 Fmul3Bit.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 nmul3@bit
+!i10b 1
+Z10 !s100 ;J39AI?VBajdbFEIaZdGn0
+!s85 0
+Z11 !s108 1764676231.897000
+Z12 !s107 mul3Bit.vo|
+Z13 !s90 -work|work|mul3Bit.vo|
+!s101 -O0
+vmul3Bit_vlg_check_tst
+!i10b 1
+!s100 81e_gDNdd]I8;BIIZXJQB2
+I=^8RSM3M]h6W@VCV<VYj80
+VS9nWi1CfB5=WDKHA=1jd<3
+R3
+R4
+Z14 8mul3Bit.vt
+Z15 Fmul3Bit.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1764676232.056000
+Z17 !s107 mul3Bit.vt|
+Z18 !s90 -work|work|mul3Bit.vt|
+!s101 -O0
+R8
+nmul3@bit_vlg_check_tst
+vmul3Bit_vlg_sample_tst
+!i10b 1
+!s100 9nhz^@P7JlLVZJ<SH1Jff0
+IFS5K:BOc]m9iHVDmlKH[A1
+V39M;FB=`;AEbePUY@>UFo2
+R3
+R4
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+nmul3@bit_vlg_sample_tst
+vmul3Bit_vlg_vec_tst
+!i10b 1
+!s100 MB>EG`jGNFZ5]c>Ba2KJ=2
+Io]f]J=kDQ6EiI;UIHbhd81
+VeIGNLOGW9AVb@K;OmAa^43
+R3
+R4
+R14
+R15
+L0 243
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+nmul3@bit_vlg_vec_tst
