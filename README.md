@@ -1,4 +1,5 @@
 3-bit Multiplier on Quartus
+
 📘 Giới thiệu
 
 Dự án này triển khai bộ nhân 3-bit (3-bit binary multiplier) bằng cách thiết kế mạch số trên Intel Quartus. Bộ nhân nhận hai toán hạng 3 bit và tạo ra kết quả 6 bit.
